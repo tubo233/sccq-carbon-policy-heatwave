@@ -1,0 +1,44 @@
+{
+  "title": "Code and data for \"Layered national and provincial carbon policies in Sichuan and Chongqing: a small local temperature signal and little near-term heatwave relief\"",
+  "upload_type": "dataset",
+  "description": "<p>Code and data for the article \"Layered national and provincial carbon policies in Sichuan and Chongqing: a small local temperature signal and little near-term heatwave relief\" (Frontiers in Earth Science).</p><p>The archive contains the derived energy and CO₂ emission pathways for every pathway construction (NPI, NPR, NPLS and their variants), the GCAM-China emission projections for 2025–2060 used for NPLS, the FaIR emission inputs and 841-member ensemble temperature results, the regional scaling coefficients, the heatwave response curves and committed-exposure results, the data underlying Figures 1–5, Supplementary Figures S1–S4 and all tables, and the Python scripts that regenerate them (folder Research_package/). The two prepared ERA5-Land daily temperature arrays are stored in the folder parts/ as numbered parts of at most 10 MB; run python parts/join_parts.py and extract the restored zip files into the archive root to place them in Research_package/inputs/weather/.</p><p>Research_package/README.md describes the contents and how to run the analysis; Research_package/DATA_SOURCES.md lists the sources and licences of the third-party data.</p>",
+  "creators": [
+    {
+      "name": "Wang, Bo",
+      "affiliation": "Assessment and Research Center for Pollution and Carbon Reduction, Tianfu Yongxing Laboratory"
+    },
+    {
+      "name": "Luo, Bin",
+      "affiliation": "Assessment and Research Center for Pollution and Carbon Reduction, Tianfu Yongxing Laboratory"
+    },
+    {
+      "name": "Yue, Chao",
+      "affiliation": "Assessment and Research Center for Pollution and Carbon Reduction, Tianfu Yongxing Laboratory"
+    },
+    {
+      "name": "He, Guangyan",
+      "affiliation": "Assessment and Research Center for Pollution and Carbon Reduction, Tianfu Yongxing Laboratory"
+    },
+    {
+      "name": "Gong, Sunling",
+      "affiliation": "Assessment and Research Center for Pollution and Carbon Reduction, Tianfu Yongxing Laboratory"
+    },
+    {
+      "name": "Zang, Jian",
+      "affiliation": "Assessment and Research Center for Pollution and Carbon Reduction, Tianfu Yongxing Laboratory"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "keywords": [
+    "sub-national carbon policy",
+    "avoided warming",
+    "FaIR",
+    "pattern scaling",
+    "heatwave exposure",
+    "counterfactual scenario",
+    "uncertainty",
+    "Southwest China"
+  ],
+  "language": "eng"
+}
