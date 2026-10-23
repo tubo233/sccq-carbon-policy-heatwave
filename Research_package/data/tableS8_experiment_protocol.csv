@@ -1,0 +1,17 @@
+﻿part,experiment_family,first_divergence,perturbed_emissions,extension_rule
+A,NPR and identity control,No perturbation,Harmonised SSP2-4.5 for all species,Run through 2060; no post-2060 extension.
+A,NPI autonomous-rate variants,2006,"SC–CQ fossil and industrial CO₂ minus NPR; annual autonomous improvement 0.5%–5%; carbon factor frozen at 2005, observed to 2022, or ±10% for CQ in 2005",Annual policy pathway through 2060; values after 2035 are scenario extensions.
+A,NPI statistical-trend variants,2006,"SC–CQ CO₂ minus NPR; carbon-intensity fits over 1997–2005, 2000–2005 or 2002–2005",Annual scenario pathway through 2060.
+A,NPI with later removal of constraints,2023,"Observed CO₂ through 2022, then NPI without constraints minus NPR",Annual scenario pathway through 2060.
+A,"NPLS: GCAM-China low, mid and high; provincial-target variant",2023,Observed CO₂ through 2022; SC–CQ policy pathway minus NPR thereafter,Annual scenario pathway through 2060.
+A,Low-GDP sensitivity,NPI: 2006; NPR: 2026; NPLS: 2023,CO₂ differences from the main NPR reference; GDP growth is reduced by one percentage point from 2026; actual and official rates through 2025 are retained,Annual scenario pathway through 2060; NPI already differs from NPR before the GDP perturbation.
+A,Zero SC–CQ emissions diagnostic,2006,Remove all NPR fossil and industrial CO₂ emissions of SC–CQ,Annual removed emissions through 2060.
+A,Single-province experiments,NPI and zero: 2006; NPLS: 2023,"Change only Sichuan or only Chongqing CO₂, for every NPI construction and both NPLS variants; the other province stays at NPR",Annual scenario pathway through 2060.
+B,SSP2-4.5 and identity control,No perturbation,All background species,Original harmonised path through 2100.
+B,DPEC CO₂ only at three scales,2023,Fossil and industrial CO₂,SC–CQ and China: hold the 2060 absolute difference. World: hold the 2060 ratio to the reference.
+B,DPEC species at three scales,2023,"CO₂, SO₂, NOx, NH₃, NMVOCs, BC and OC; BC/OC changes follow primary PM₂.₅",Same DPEC rule as above. No CH₄ perturbation.
+B,DPEC plus CH₄ variants V0–V3,2023,DPEC species plus CH₄; allocation and strength as in Table S7B,DPEC as above; the SSP-based CH₄ reduction ratio continues to 2100.
+B,DPEC plus CH₄ variant V4,DPEC: 2023; CH₄: 2030,DPEC species plus CH₄; only the CH₄ ratio is delayed by seven years,DPEC as above; delayed CH₄ ratio continues through the run to 2100.
+B,CH₄-only diagnostic V1,2023,CH₄ only at each of the three scales,SSP1-2.6/SSP2-4.5 CH₄ ratio continues to 2100.
+B,SSP1-1.9 and SSP1-2.6 benchmarks from 2023,2023,All scenario species worldwide,Original harmonised SSP paths through 2100.
+B,SSP1-1.9 and SSP1-2.6 benchmarks from 2026,2026,All scenario species worldwide; follow SSP2-4.5 through 2025,"Add each species’ SSP-minus-SSP2-4.5 difference delayed by three years, through 2100."

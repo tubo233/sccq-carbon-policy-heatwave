@@ -1,0 +1,21 @@
+model,window,lam,region
+GFDL-ESM4,years_41_60,1.4453675744680874,sichuan
+GFDL-ESM4,years_61_80_primary,1.5322962875343804,sichuan
+GFDL-ESM4,years_81_100,1.3953329770921234,sichuan
+MPI-ESM1-2-LR,years_41_60,1.253809466404758,sichuan
+MPI-ESM1-2-LR,years_61_80_primary,1.3358354210439696,sichuan
+MPI-ESM1-2-LR,years_81_100,1.304755966532776,sichuan
+UKESM1-0-LL,years_41_60,1.2781040148226608,sichuan
+UKESM1-0-LL,years_61_80_primary,1.286496851773029,sichuan
+UKESM1-0-LL,years_81_100,1.2757224253175083,sichuan
+Observational regression on GISTEMP,—,2.078933,sichuan
+GFDL-ESM4,years_41_60,1.3421197187011369,chongqing
+GFDL-ESM4,years_61_80_primary,1.3515381694701578,chongqing
+GFDL-ESM4,years_81_100,1.3621503952651746,chongqing
+MPI-ESM1-2-LR,years_41_60,1.2654858065531591,chongqing
+MPI-ESM1-2-LR,years_61_80_primary,1.2385020941794187,chongqing
+MPI-ESM1-2-LR,years_81_100,1.2030397812426212,chongqing
+UKESM1-0-LL,years_41_60,1.2739770497427942,chongqing
+UKESM1-0-LL,years_61_80_primary,1.3573659251879706,chongqing
+UKESM1-0-LL,years_81_100,1.2404340797770892,chongqing
+Observational regression on GISTEMP,—,1.29684,chongqing

@@ -1,0 +1,11 @@
+﻿Source,Window,λ Sichuan,λ Chongqing
+GFDL-ESM4,years 41–60,1.445,1.342
+GFDL-ESM4,years 61–80,1.532,1.352
+GFDL-ESM4,years 81–100,1.395,1.362
+MPI-ESM1-2-LR,years 41–60,1.254,1.265
+MPI-ESM1-2-LR,years 61–80,1.336,1.239
+MPI-ESM1-2-LR,years 81–100,1.305,1.203
+UKESM1-0-LL,years 41–60,1.278,1.274
+UKESM1-0-LL,years 61–80,1.286,1.357
+UKESM1-0-LL,years 81–100,1.276,1.240
+Observational regression on GISTEMP,—,2.079,1.297

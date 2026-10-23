@@ -1,0 +1,31 @@
+﻿sector,scenario,2020,2025,2030,2035,2040,2045,2050,2055,2060
+Agriculture,clean air,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Industry,clean air,2.73,2.62,2.44,2.33,2.25,2.23,2.16,2.1,2.01
+Power,clean air,0.2,0.13,0.08,0.15,0.14,0.14,0.14,0.14,0.13
+Residential,clean air,2.7,1.38,1.06,1.04,1.03,1.03,1.03,1.02,1.02
+Solvent use,clean air,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Transportation,clean air,0.42,0.45,0.38,0.23,0.2,0.19,0.17,0.16,0.16
+Agriculture,early peak-net zero-clean air,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Industry,early peak-net zero-clean air,2.73,2.6,2.23,1.83,1.56,1.27,1.04,0.81,0.67
+Power,early peak-net zero-clean air,0.2,0.07,0.04,0.02,0.01,0.0,0.0,0.0,0.0
+Residential,early peak-net zero-clean air,2.7,0.68,0.06,0.0,0.0,0.0,0.0,0.0,0.0
+Solvent use,early peak-net zero-clean air,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Transportation,early peak-net zero-clean air,0.42,0.43,0.32,0.26,0.19,0.12,0.08,0.05,0.04
+Agriculture,on-time peak-clean air,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Industry,on-time peak-clean air,2.73,2.61,2.42,2.28,2.22,2.17,2.1,2.08,2.01
+Power,on-time peak-clean air,0.2,0.08,0.04,0.03,0.02,0.01,0.01,0.01,0.01
+Residential,on-time peak-clean air,2.7,1.08,0.54,0.45,0.31,0.3,0.29,0.28,0.28
+Solvent use,on-time peak-clean air,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Transportation,on-time peak-clean air,0.42,0.44,0.35,0.29,0.23,0.17,0.14,0.11,0.1
+Agriculture,on-time peak-net zero-clean air,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Industry,on-time peak-net zero-clean air,2.73,2.61,2.42,2.08,1.69,1.39,1.14,0.88,0.67
+Power,on-time peak-net zero-clean air,0.2,0.08,0.04,0.03,0.01,0.01,0.0,0.0,0.0
+Residential,on-time peak-net zero-clean air,2.7,1.08,0.54,0.24,0.15,0.09,0.04,0.0,0.0
+Solvent use,on-time peak-net zero-clean air,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Transportation,on-time peak-net zero-clean air,0.42,0.44,0.35,0.28,0.2,0.12,0.09,0.06,0.04
+Agriculture,reference,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Industry,reference,2.73,2.86,2.67,2.52,2.43,2.38,2.35,2.3,2.28
+Power,reference,0.2,0.25,0.24,0.24,0.24,0.24,0.24,0.25,0.25
+Residential,reference,2.7,2.29,2.23,2.25,2.23,2.18,2.15,2.09,2.03
+Solvent use,reference,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Transportation,reference,0.42,0.47,0.45,0.45,0.45,0.45,0.44,0.44,0.45
