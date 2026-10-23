@@ -1,0 +1,13 @@
+This record stores three zip files as numbered parts of at most 10 MB:
+  Research_package_main.zip.001 ...  (code, inputs, ensemble results and tables)
+  Research_package_tmax.zip.001 ...  (daily maximum temperature array)
+  Research_package_tmin.zip.001 ...  (daily minimum temperature array)
+
+1. Download all files of the record into one folder.
+2. Run:  python join_parts.py
+   (joins the parts and checks them against MD5SUMS.txt)
+   Alternatives: open the .001 part with 7-Zip, or
+   Linux/macOS: cat Research_package_main.zip.* > Research_package_main.zip  (same for tmax and tmin)
+3. Extract the three zip files into the same folder; they form the folder Research_package/.
+   README.md inside describes the contents and how to run the analysis.
+   The two temperature arrays are needed only for the "weather" stage.
